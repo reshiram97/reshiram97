@@ -1,7 +1,7 @@
 For the stalkers
 - 👋 Hi, I’m @reshiram97
 - 👀 I’m interested in learning more about software development and open source
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React,GO Lang, and Java a bit.
 - 💞️ I’m looking to collaborate on various open source repos and projects
 - 📫 How to reach me reshiram970@gmail.com
 
